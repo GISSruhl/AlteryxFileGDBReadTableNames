@@ -8,3 +8,7 @@ The miniconda build that is included is the [Virtual Environment](https://help.a
 #### Working Notes
 This tool will use [GDAL](https://github.com/OSGeo/gdal) to open and read a file geodatabase then return a list of tables.
 It also uses the [Alteryx Python SDK](https://help.alteryx.com/developer/current/Python/Overview.htm?tocpath=SDKs%7CBuild%20Custom%20Tools%7CPython%20SDK%7C_____0) to package the script and make it available in a native Alteryx tool.
+
+
+#### Icon Credit
+Icons made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
